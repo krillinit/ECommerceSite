@@ -1,0 +1,4 @@
+C:\Users\lil-v\source\repos\WebApplication4\WebApplication4\obj\Debug\WebApplication4.vbprojAssemblyReference.cache
+C:\Users\lil-v\source\repos\WebApplication4\WebApplication4\obj\Debug\WebApplication4.Resources.resources
+C:\Users\lil-v\source\repos\WebApplication4\WebApplication4\obj\Debug\WebApplication4.vbproj.GenerateResource.cache
+C:\Users\lil-v\source\repos\WebApplication4\WebApplication4\obj\Debug\WebApplication4.vbproj.CoreCompileInputs.cache
